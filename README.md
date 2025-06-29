@@ -10,11 +10,6 @@
 
 
 
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/Happy.PNG)
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/angry.PNG)
-
-
-
 
 <a id="p1"></a> 
 # Description:
@@ -58,10 +53,6 @@ I have used [this](https://www.kaggle.com/c/3364/download-all) dataset
 Download it and put the csv in fer2013/fer2013/
 
 -fer2013 emotion classification test accuracy: 66%
-
-
-# Credits
-This work is inspired from [this](https://github.com/oarriaga/face_classification) great work and the resources of Adrian Rosebrock helped me alot!.
 
 # Ongoing 
 Draw emotions faces next to the detected face.
