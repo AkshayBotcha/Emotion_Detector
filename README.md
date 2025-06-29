@@ -65,9 +65,3 @@ This work is inspired from [this](https://github.com/oarriaga/face_classificatio
 
 # Ongoing 
 Draw emotions faces next to the detected face.
-
-# Issues & Suggestions
-
-If any issues and suggestions to me, you can create an [issue](https://github.com/omar178/Emotion-recognition/issues).
-
-If you like this work please help me by giving me some stars.
